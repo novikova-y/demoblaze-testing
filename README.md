@@ -21,10 +21,9 @@ During testing, 4 purchase flow bugs were found and are annotated in the test ca
 
 ## Project Structure
 
-cypress/
-└── e2e/
-├── login.cy.js
-└── purchaseLaptop.cy.js
+cypress/e2e/
+─ login.cy.js
+─ purchaseLaptop.cy.js
 
 ## Suggested Improvements
 
